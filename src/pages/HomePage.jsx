@@ -30,7 +30,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" className="img-fluid animated" alt="" />
+          <img src="assets/img/backg.jpg" className="img-fluid animated" alt="" />
         </div>
       </div>
     </div>
@@ -406,7 +406,7 @@ export default function HomePage() {
     </section>
 
     
-    <section id="portfolio" className="portfolio">
+    {/* <section id="portfolio" className="portfolio">
       <div className="container" data-aos="fade-up">
 
         <div className="section-title">
@@ -516,7 +516,7 @@ export default function HomePage() {
         </div>
 
       </div>
-    </section>
+              </section>*/}
 
     
     <section id="team" className="team section-bg">
@@ -531,16 +531,17 @@ export default function HomePage() {
 
           <div className="col-lg-6">
             <div className="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-              <div className="pic"><img src="assets/img/team/team-1.jpg" className="img-fluid" alt="" /></div>
+              <div className="pic"  ><img  src="assets/img/team/suuna3.jpg" className="img-fluid" alt="" /></div>
               <div className="member-info">
                 <h4>Ssuna Khalim</h4>
                 <span>Chief Executive Officer/Consultant</span>
                 <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
                 <div className="social">
-                  <a href=""><i className="ri-twitter-fill"></i></a>
-                  <a href=""><i className="ri-facebook-fill"></i></a>
+                  <a href="https://twitter.com/ssu2229"><i className="ri-twitter-fill"></i></a>
+                  <a href="https://facebook.com/kalema.yasin.77"><i className="ri-facebook-fill"></i></a>
                   <a href=""><i className="ri-instagram-fill"></i></a>
-                  <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://linkedin.com/in/khalim-ssuna-56530417b"> <i className="ri-linkedin-box-fill"></i> </a>
+                  <a href="https://github.com/khalim-12"><i><x-ri-github-fill /></i></a>
                 </div>
               </div>
             </div>
@@ -548,7 +549,7 @@ export default function HomePage() {
 
           <div className="col-lg-6 mt-4 mt-lg-0">
             <div className="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-              <div className="pic"><img src="assets/img/team/team-1.jpg" className="img-fluid" alt="" /></div>
+              <div className="pic"><img src="assets/img/clients/ysf1.jpg" className="img-fluid" alt="" /></div>
               <div className="member-info">
                 <h4>Nkoyoyo Yusuf</h4>
                 <span>Developer</span>
@@ -584,7 +585,7 @@ export default function HomePage() {
         </div>
 
       </div>
-    </section>
+    </section> 
 
     
     <section id="pricing" className="pricing">
@@ -736,7 +737,7 @@ export default function HomePage() {
               <div className="email">
                 <i className="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>codeit@gmail.com</p>
+                <p>codeit1.ug@gmail.com</p>
               </div>
 
               <div className="phone">

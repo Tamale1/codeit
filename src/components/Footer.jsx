@@ -25,11 +25,11 @@ export default function Footer() {
           <div className="col-lg-3 col-md-6 footer-contact">
             <h3 style={{color:'#ff1493'}}>Codeit</h3>
             <p>
-              Bombo road <br></br>
-              Wakiso, Nansana<br></br>
-              Uganada <br></br>
+              Hoima Road <br></br>
+               Nansana, Yesu Amala<br></br>
+              Opp.Masjid Rahman <br></br>
               <strong>Phone:</strong> <br></br>
-              <strong>Email:</strong> codeit@gmail.com<br></br>
+              <strong>Email:</strong> codeit1.ug@gmail.com<br></br>
             </p>
           </ div>
 
