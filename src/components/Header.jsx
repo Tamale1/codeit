@@ -7,7 +7,7 @@ export default function Header() {
     <header id="header" className="fixed-top ">
     <div className="container d-flex align-items-center">
 
-      <h1 className="logo me-auto" style={{color:'#ff1493'}}><a href="index.html"  style={{color:'#ff1493'}}> CodeIt </a> <h4 style={{fontSize: '10px', fontStyle: 'italic'}}>Technologies</h4></h1>
+      <h1 className="logo me-auto" style={{color:'#ff1493'}}><a href="index.html"  style={{color:'#ff1493'}}> Code_It </a> <h4 style={{fontSize: '10px', fontStyle: 'italic'}}>Technologies</h4></h1>
       
        <a href="index.html" className="logo me-auto"><img src="assets/img/logo.png" alt="" className="img-fluid" /></a>
 
