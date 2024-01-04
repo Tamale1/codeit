@@ -872,7 +872,7 @@ At the top of Code_it, the industry's rising star in software development, stand
                     <h4>Nkoyoyo Yusuf</h4>
                     <span>Developer</span>
                     <p>
-                    Yusuf thrives at the cross of logic and imagination. Loves crafting elegant front-end designs and stacking back-end code with the  can breathe life into digital landscapes. Challenges excite him and bugs fuel his determination.
+                    Yusuf thrives at the cross of logic and imagination. Loves crafting elegant front-end designs and stacking back-end code which  can breathe life into digital landscapes. Challenges excite him and bugs fuel his determination.
                     </p>
                     <div className="social">
                       <a href="https://twitter.com/yusufontwiter">
